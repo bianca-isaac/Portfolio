@@ -19,9 +19,6 @@ Aqui você encontra todos os meus Notebooks
 Atualmente estou estudando as ferramentas para Data Science para poder obter mais insights de negócios e ajudar no crescimento da empresa.
 Também sou apaixonada por esportes e desempenho, então meu estudo também se concentra na análise esportiva.
 
-
-
-**Academic Educational background** 
 * Estudante de Data Science
 * Graduação em Economia
 * Graduanda em Educação Física
