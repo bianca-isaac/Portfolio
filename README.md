@@ -7,8 +7,7 @@
 
 Aqui você encontra todos os meus Notebooks
 
-## Notebooks:
-Notebooks mais relevantes: 
+## Notebooks mais relevantes:
 
 *
 *
