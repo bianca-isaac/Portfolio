@@ -9,9 +9,8 @@ Aqui você encontra todos os meus Notebooks
 
 ## Notebooks mais relevantes:
 
-*
-*
-*
+* **Análise de dados de Toronto - Canadá usando Pandas e dos Dados do Airbnb:** https://bit.ly/3tzsGTJ
+
 
 
 
