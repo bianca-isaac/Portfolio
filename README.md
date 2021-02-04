@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="capa.jpg" >
+  <img src="capa2.jpg" >
 </p>
 
 # Bianca Isaac
