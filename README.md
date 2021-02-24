@@ -36,14 +36,3 @@ I'm also passionate about sport and performance, so my study is also focused on 
 
 ---
 
-**Skills in:** Econometria, Power BI, Gestão empresarial, Ex-atleta profissional.
-
-
-
-**Links:**
-* [LinkedIn](https://www.linkedin.com/in/bianca-rodrigues-isaac/)
-* [Medium](https://biancarisaac.medium.com/)
-
-
-
----
