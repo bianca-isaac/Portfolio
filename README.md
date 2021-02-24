@@ -1,30 +1,40 @@
 <p align="center">
-  <img src="capa2.png" >
+  <img src="Capa_github.jpg" >
 </p>
 
 # Bianca Isaac
 <sub>*Data Scientist Student*</sub>
 
-Aqui você encontra todos os meus Notebooks
+In my professional experience, proactivity and enthusiasm are the key to achieve my main goals. Over the years I have managed to develop critical thinking and problem solving skills.
 
-## Notebooks mais relevantes:
-
-* **Análise de dados de Toronto - Canadá usando Pandas e dos Dados do Airbnb:** https://bit.ly/3tzsGTJ
-
+I'm currently studying the tools for Data Science to be able to gain more business insights and help the company's growth.
+I'm also passionate about sport and performance, so my study is also focused on sports analysis.
 
 
-
-## Sobre mim:
-
-Atualmente estou estudando as ferramentas para Data Science para poder obter mais insights de negócios e ajudar no crescimento da empresa.
-Também sou apaixonada por esportes e desempenho, então meu estudo também se concentra na análise esportiva.
-
-* Estudante de Data Science
-* Graduação em Economia
-* Graduanda em Educação Física
-* MBA em Gestão de Projetos 
+**Academic Educational background** 
+* Data Science Student 
+* B.A. in Economics Economia
+* Undergraduate in Physical Education
+* M.B.A. in Project Management 
 
 
+**Skills in:** Econometrics, Power BI, Business Management, Former professional athlete.
+
+
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/bianca-rodrigues-isaac/)
+* [Medium](https://biancarisaac.medium.com/)
+
+
+## Projects:
+
+* **Análise de dados de Toronto - Canadá usando Pandas e dos Dados do Airbnb:** https://bit.ly/2OOvxrH
+
+
+## Medium:
+* **Como organizar sua vida com o Notion:** https://bit.ly/2O5OO7Q
+
+---
 
 **Skills in:** Econometria, Power BI, Gestão empresarial, Ex-atleta profissional.
 
