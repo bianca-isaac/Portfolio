@@ -1,3 +1,5 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-biancaisaac-blue.svg)](https://www.linkedin.com/in/bianca-rodrigues-isaac/) [![Medium](https://img.shields.io/badge/Medium-biancaisaac-green)](https://biancarisaac.medium.com/)
+
 <p align="center">
   <img src="Capa_github.jpg" >
 </p>
