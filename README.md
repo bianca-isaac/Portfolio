@@ -7,7 +7,7 @@
 # Bianca Isaac
 <sub>*Data Scientist Student*</sub>
 
-IOver the years I have managed to develop critical thinking and problem solving skills. I have experience in business and sports performance statistical analysis. and I work with data collection, preparation, and presentation.
+Over the years I have managed to develop critical thinking and problem solving skills. I have experience in business and sports performance statistical analysis. and I work with data collection, preparation, and presentation.
 
 I'm currently studying the tools for Data Science to be able to gain more business insights and help the company's growth.
 
