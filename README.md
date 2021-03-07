@@ -7,10 +7,10 @@
 # Bianca Isaac
 <sub>*Data Scientist Student*</sub>
 
-In my professional experience, proactivity and enthusiasm are the key to achieve my main goals. Over the years I have managed to develop critical thinking and problem solving skills.
+IOver the years I have managed to develop critical thinking and problem solving skills. I have experience in business and sports performance statistical analysis. and I work with data collection, preparation, and presentation.
 
 I'm currently studying the tools for Data Science to be able to gain more business insights and help the company's growth.
-I'm also passionate about sport and performance, so my study is also focused on sports analysis.
+
 
 
 **Academic Educational background** 
