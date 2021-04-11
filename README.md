@@ -30,6 +30,7 @@ I'm currently studying the tools for Data Science to be able to gain more busine
 
 ## Projects:
 
+* **Team-correlation matrix and Descriptive analysis - NBA:** https://bit.ly/2MUdbVR
 * **Análise de dados de Toronto - Canadá usando Pandas e dos Dados do Airbnb:** https://bit.ly/2OOvxrH
 
 
