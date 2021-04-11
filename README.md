@@ -1,7 +1,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-biancaisaac-blue.svg)](https://www.linkedin.com/in/bianca-rodrigues-isaac/) [![Medium](https://img.shields.io/badge/Medium-biancaisaac-green)](https://biancarisaac.medium.com/)
 
 <p align="center">
-  <img src="Capa_github.jpg" >
+  <img src="Chttps://raw.githubusercontent.com/bianca-isaac/Portfolio/main/Images/Capa_linkedin.png" >
 </p>
 
 # Bianca Isaac
