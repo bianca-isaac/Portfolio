@@ -34,7 +34,7 @@ I'm currently studying the tools for Data Science to be able to gain more busine
 
 
 ## Medium:
-* **Como organizar sua vida com o Notion:** https://bit.ly/2O5OO7Q
+* **Não desista da Estatística:** https://bit.ly/3vpSmTg
 
 ---
 
